@@ -1,0 +1,11 @@
+Welcome to Micahcraft Memories. This pack contains structures from past Micahcraft servers (1.14-1.19 as of 1/3/2024) that had significant effort put into them and
+were reasonable to generate in the world.
+
+Structures made by people who are no longer part of the server are included in the pack, but not generated naturally by default. They will be enabled if
+the structure name is added to the micahcraft structure_set and structure tag (ex: "mica_mem:aliceothers_wood_village_1-17")
+
+Examples of structures that are NOT included: long wooden rectangle with no decoration, village base with little to no major changes, most cave bases (hard to generate),
+structures with a radius larger than 116 blocks (impossible to generate without weird workarounds)
+
+Some files in this pack were generated using Misode's datapack generators, found here: https://misode.github.io/
+If you are interested in how structure generation works, visit https://minecraft.wiki/w/Tutorials/Custom_structures to learn more.

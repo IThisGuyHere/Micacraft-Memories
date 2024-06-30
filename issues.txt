@@ -1,0 +1,19 @@
+Outstanding Issues:
+-roads become concrete if water touches them (can only mitigate)	can't fix without major rework
+-lamps are only generating on the far side of straight roads in some cases		can't fix easily; related to terrain_matching preset
+-
+
+
+TODO:
+-when 1.21 rolls around, look into structure placement based on noise (for the city, specifically)
+-fix boat structure_void not becoming water
+-make pontoons below matt&jess structures
+
+
+Complete:
+-1.17 city unless I want to add back non-flat biomes
+-1.17 noel house
+-1.17 damian house
+-1.17 micah, matt, & jess area
+-1.17 Alyssa and Connor's town
+

@@ -1,0 +1,95 @@
+{
+    "fallback": "mica_mem:1-16-4/martjuice_beach_town/terminators",
+    "elements": [
+        {
+            "weight": 3,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/bridge",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/portal_path",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 4,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/dock_ship",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/dock_left",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/dock_right",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/dock_straight",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/centers/dock_center",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/centers/farm_center",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/centers/town_center",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/paths/lighthouse_connector",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "structures": [
+      {
+        "structure": "mica_mem:logcod_city_1-17",
+        "weight": 1
+      },
+      {
+        "structure": "mica_mem:nole_witchhouse_1-17",
+        "weight": 3
+      },
+      {
+        "structure": "mica_mem:daemon_desert_abode_1-17",
+        "weight": 3
+      },
+      {
+        "structure": "mica_mem:micamartjuice_beach_house_1-17",
+        "weight": 3
+      },
+      {
+        "structure": "mica_mem:martjuice_beach_town_1-16-4",
+        "weight": 3
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 94766628,
+      "separation": 15,
+      "spacing": 35,
+      "exclusion_zone": {
+        "chunk_count": 16,
+        "other_set": "minecraft:villages"
+      }
+    }
+  }

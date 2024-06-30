@@ -1,0 +1,14 @@
+{
+    "fallback": "mica_mem:1-17/logcod_city/center/city_center_basement_ladder",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "location": "mica_mem:1-17/logcod_city/center/city_house_basement",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

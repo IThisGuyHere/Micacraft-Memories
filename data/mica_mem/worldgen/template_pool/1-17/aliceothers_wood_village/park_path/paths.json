@@ -1,0 +1,41 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "location": "mica_mem:1-17/aliceothers_wood_village/park_path/path_1",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "terrain_matching",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mica_mem:1-17/aliceothers_wood_village/park_path/path_2",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "terrain_matching",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mica_mem:1-17/aliceothers_wood_village/park_path/bridge",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "location": "mica_mem:1-17/aliceothers_wood_village/park_path/stairs",
+          "element_type": "minecraft:single_pool_element",
+          "projection": "terrain_matching",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

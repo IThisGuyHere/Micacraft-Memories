@@ -1,0 +1,36 @@
+name is WIP
+
+City:
+-claimed by pillagers
+-massive to-scale banners hanging from every building
+-miniboss on every tower roof
+-ocean tower is flooded, filled with pillagers riding guardians that spawn from chunks of the floors jutting out from the wall (use trial spawner?)
+	also has conduit(s) hidden to give water breathing but are destroyed when broken
+-center house has vindicator riding one of the llamas (llamin?)
+-pillagers are scared to go near Exterminator Male Whistling Death Adult
+-sheep in nether tower are tanked
+-maybe forest tower has tree branches wrapped around it and the player climbs along them like the locations in NW
+-use an illusioner somewhere?
+-end tower has pillagers with tipped arrows of levitation that only last 1/2 sec (to disorient)
+-vindicators in nether tower can have fire aspect on their weapons
+
+Amogus Beach:
+-no longer a beach, but on top of a massive crewmate floating in the ocean
+-"vents" go down into the crewmate's suit
+-inside the crewmate helmet, have a table with zombies (or something) colored to represent the suit colors (some have swords because imposter)
+
+Beach Town:
+-portal is a big part of this one
+-piglins invaded and took over the base
+-used "nether spreaders" like in dungeons to keep from dying in overworld
+-several smaller portals around the area with the massive portal being the most heavily guarded
+-each portal has hidden trial spawners that spawn piglins like they are coming from the portal (these ones cannot survive and will become zombies, but not immediately)
+-each building takes on a nether style and is reinforced
+
+Jungle Bridge Base (if it can be copied):
+-spawn poison skeletons in treetops
+
+Tweety Unfinished Castle:
+-not unfinished but destroyed
+-overtaken by sculk
+-weaker warden inside that does not drop catalyst

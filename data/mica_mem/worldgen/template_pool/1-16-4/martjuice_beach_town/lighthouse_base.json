@@ -1,0 +1,14 @@
+{
+    "fallback": "mica_mem:1-16-4/martjuice_beach_town/terminators",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "mica_mem:1-16-4/martjuice_beach_town/buildings/lighthouse_base",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "mica_mem:1-16-4/martjuice_beach_town/preserve_solid_blocks"
+            }
+        }
+    ]
+}

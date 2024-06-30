@@ -1,0 +1,68 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 3,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/straight_1",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/straight_2",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/straight_4",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/straight_8",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 6,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/t-junc",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/corner_l",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "location": "mica_mem:1-17/micamartjuice_beach_house/paths/corner_r",
+                "element_type": "minecraft:single_pool_element",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}

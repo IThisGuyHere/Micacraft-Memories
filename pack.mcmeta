@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 50
+    },
+    "description": "The best structures from past Micacraft servers: now in every world!\nPack by ThisGuyHere. Structures by various server members."
+  }
+}

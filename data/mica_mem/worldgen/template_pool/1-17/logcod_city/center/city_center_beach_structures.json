@@ -1,0 +1,59 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight":1,
+            "element": {
+                "location": "mica_mem:1-17/logcod_city/center/city_center_beach_bridge_left",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight":1,
+            "element": {
+                "location": "mica_mem:1-17/logcod_city/center/city_center_beach_bridge_right",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight":1,
+            "element": {
+                "location": "mica_mem:1-17/logcod_city/center/city_center_beach_pufferpool_top",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight":1,
+            "element": {
+                "location": "mica_mem:1-17/logcod_city/center/city_center_beach_pufferpool_bottom",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight":1,
+            "element": {
+                "location": "mica_mem:1-17/logcod_city/center/city_center_beach_axopool_top",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight":1,
+            "element": {
+                "location": "mica_mem:1-17/logcod_city/center/city_center_beach_axopool_bottom",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}
